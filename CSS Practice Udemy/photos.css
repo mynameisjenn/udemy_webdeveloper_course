@@ -1,0 +1,16 @@
+img {
+  width: 20%;
+  float: left;
+  margin: 2.22%;
+}
+
+p {
+  font-family: 'Do Hyeon', sans-serif;
+  margin: 2.22%;
+  font-size: 32px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid #916EDB;
+  width: 36%;
+  padding-bottom: 6px;
+}

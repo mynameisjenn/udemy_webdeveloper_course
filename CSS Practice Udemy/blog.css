@@ -1,0 +1,32 @@
+body {
+  width: 50%;
+  border: 20px solid #1A5276;
+  padding: 20px;
+  margin: 20px auto;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+}
+
+.post {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.date {
+  padding-top: 50px;
+  color: #5B2C6F;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.quote {
+  border-left: 5px solid #1A5276;
+  padding-left: 10px;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
