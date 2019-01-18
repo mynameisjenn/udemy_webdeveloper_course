@@ -1,0 +1,28 @@
+h1 {
+	color: rgba(8, 150, 255, .5);
+	/*border-width: 5px;
+	border-color: red;
+	border-style: solid;
+*/
+border: 10px dashed red;
+}
+
+
+/* borders have
+width
+color
+style */
+
+li {
+	color: rgb(0, 0, 0);
+}
+
+h4 {
+	color: rgb(255, 100, 80);
+}
+
+body {
+	background: pink;
+	/*background-image: url(https://www.stockvault.net/data/2017/02/03/222197/preview16.jpg)
+	
+}*/
